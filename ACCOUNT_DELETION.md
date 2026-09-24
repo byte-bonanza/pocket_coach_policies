@@ -1,6 +1,6 @@
 # Account Deletion
 
-This account deletion policy applies to the Pocket Coach AI app for mobile devices, operated by [OPERATOR NAME] (the "Service Provider").
+This account deletion policy applies to the Pocket Coach AI app for mobile devices, operated by Burak Yaman (the "Service Provider").
 
 ## How to Delete Your Account
 
@@ -13,7 +13,7 @@ You can permanently delete your Pocket Coach AI account and all associated data 
 
 Your account is deleted **immediately** upon confirmation — there is no waiting period.
 
-If you are unable to log in to your account, you can request deletion by emailing the Service Provider at **[SUPPORT EMAIL]** from the email address associated with your account. The Service Provider will verify your identity and delete your account within a reasonable timeframe.
+If you are unable to log in to your account, you can request deletion by emailing the Service Provider at **info@trinexo.io** from the email address associated with your account. The Service Provider will verify your identity and delete your account within a reasonable timeframe.
 
 ## Active Subscriptions
 
@@ -48,4 +48,4 @@ Some data may be retained after account deletion where required by law or by our
 
 ## Contact Us
 
-If you have any questions about account deletion, please contact the Service Provider at **[SUPPORT EMAIL]**.
+If you have any questions about account deletion, please contact the Service Provider at **info@trinexo.io**.
