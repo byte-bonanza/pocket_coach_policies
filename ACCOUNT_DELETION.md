@@ -43,7 +43,7 @@ This data is deleted immediately and cannot be recovered.
 Some data may be retained after account deletion where required by law or by our service providers:
 
 - **App Store / Google Play transaction records**: Apple and Google retain their own records of in-app purchase transactions independently of Pocket Coach AI, in accordance with their own policies.
-- **Subscription records at RevenueCat**: Our subscription management provider, RevenueCat, may retain an anonymous purchase record tied to a random user identifier. You can request its removal by contacting us.
+- **Subscription records at RevenueCat**: Our subscription management provider, RevenueCat, may retain your purchase history, which is linked to your account email address. You can request its removal by contacting us.
 - **Advertising data at Google AdMob**: Google may retain data collected when ads were shown in the app, in accordance with Google's own privacy policy. This data is not linked to your name or email.
 
 ## Contact Us
